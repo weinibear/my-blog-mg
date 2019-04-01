@@ -2,6 +2,8 @@
 
 > 一个基于Vue 的后台博客管理实现, mockjs 模拟数据
 
+## demo
+https://weinibear.github.io/my-blog-mg/
 
 ![image](https://github.com/weinibear/my-blog-mg/raw/master/screenshot.PNG)
 
