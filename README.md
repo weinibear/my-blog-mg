@@ -1,9 +1,10 @@
 # my-blog 后台管理(Vue2)
 
-> 一个基于Vue 的后台博客管理实现, mockjs 模拟数据
+ 一个基于Vue 的后台博客管理实现, mockjs 模拟数据
 
 ## demo
 https://weinibear.github.io/my-blog-mg/
+
 
 ![image](https://github.com/weinibear/my-blog-mg/raw/master/screenshot.PNG)
 
