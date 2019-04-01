@@ -3,7 +3,7 @@
 > 一个基于Vue 的后台博客管理实现, mockjs 模拟数据
 
 
-![image](https://github.com/weinibear/blog-mg/raw/master/screenshot.PNG)
+![image](https://github.com/weinibear/my-blog-mg/raw/master/screenshot.PNG)
 
 
 ## 开发
