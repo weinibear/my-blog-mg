@@ -1,4 +1,4 @@
-# my-blog 后台管理(Vue2) local
+# my-blog 后台管理(Vue2)
 
  一个基于Vue 的后台博客管理系统loacal-modify, mockjs 模拟数据
 
