@@ -2,7 +2,7 @@
 
  一个基于Vue 的后台博客管理系统loacal-modify, mockjs 模拟数据
 
-## demo
+## demo哈哈
 https://weinibear.github.io/my-blog-mg/
 
 
