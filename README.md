@@ -19,7 +19,7 @@ $ npm run dev
 
 ```
 
-## 目录结构
+## 目录结构remote
 
 ```
  /api          后台接口
